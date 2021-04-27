@@ -19,9 +19,6 @@
 >   being successful. It also had the most total campaigns out of any month at
 >   166, and the most failures at 52.
 
-![Chart, line chart Description automatically
-generated](media/ad896c5740c54befa2fea1d6c1e155c3.png)
-
 ### Analysis of Outcomes Based on Goals
 
 >   Goals less than \$1000 are 76% successful, tapering down to 50% between
@@ -30,9 +27,6 @@ generated](media/ad896c5740c54befa2fea1d6c1e155c3.png)
 >   There is a 67% chance of a successful campaign if the goal is between
 >   \$35000-\$44999, but there are only 6 data points in that range.
 
-![Chart, line chart Description automatically
-generated](media/1f8c4f6365d4ddfded6e7fe738997544.png)
-
 ### Challenges and Difficulties Encountered
 
 ## Results
@@ -40,22 +34,24 @@ generated](media/1f8c4f6365d4ddfded6e7fe738997544.png)
 -   What are two conclusions you can draw about the Outcomes based on Launch
     Date?
 
-    You are more likely to have a successful campaign Launching a Kickstarter In
-    May would have the greatest likelihood to succeed. Launching a Kickstarter
-    in December is almost just as likely to fail as it is to succeed.
+    Launching a Kickstarter In May would have the greatest likelihood to
+    succeed. Launching a Kickstarter in December is almost just as likely to
+    fail as it is to succeed.
 
 -   What can you conclude about the Outcomes based on Goals?
 
     Goals under \$15000 and goals between \$35000-45000 have a better chance to
-    succeed.
+    succeed. Louise’s campaign was under \$15000, therefore it was more likely
+    to succeed.
 
 -   What are some limitations of this dataset?
 
-    The data is only from a sample of 4115 Kickstarters, and a broader sample
+    The data is only from a sample of 1369 Kickstarters, and a broader sample
     would give more accurate results.
 
 -   What are some other possible tables and/or graphs that we could create?
 
-# Kickstarter-Analysis-
+    The percentage of success based on the month of the year would be helpful to
+    gain insight on the likelihood of success.
 
 # 
