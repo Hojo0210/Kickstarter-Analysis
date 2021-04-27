@@ -29,8 +29,7 @@
 >   There is a 67% chance of a successful campaign if the goal is between
 >   \$35000-\$44999, but there are only 6 data points in that range.
 
-![Chart, line chart Description automatically
-generated](media/1f8c4f6365d4ddfded6e7fe738997544.png)
+![Outcome vs Goals Chart](https://github.com/Hojo0210/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
