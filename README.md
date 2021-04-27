@@ -19,11 +19,10 @@
 >   being successful. It also had the most total campaigns out of any month at
 >   166, and the most failures at 52.
 
-<<<<<<< HEAD
+
 =======
 ![Outcome vs Launch chart](https://github.com/Hojo0210/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
->>>>>>> 90c954fffa7372dd7dec181f4b0a10a768747d6a
 ### Analysis of Outcomes Based on Goals
 
 >   Goals less than \$1000 are 76% successful, tapering down to 50% between
@@ -32,11 +31,9 @@
 >   There is a 67% chance of a successful campaign if the goal is between
 >   \$35000-\$44999, but there are only 6 data points in that range.
 
-<<<<<<< HEAD
 =======
 ![Outcome vs Goals Chart](https://github.com/Hojo0210/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
->>>>>>> 90c954fffa7372dd7dec181f4b0a10a768747d6a
 ### Challenges and Difficulties Encountered
 
 ## Results
