@@ -14,14 +14,14 @@
  	There is a general trend of more successes than failures, with few cancelations. May was the most successful month for campaigns, with 111 being successful. It also had the most total campaigns out of any month at 166, and the most failures at 52. 
 
 
-
+ 
 
 ### Analysis of Outcomes Based on Goals
 
 	Goals less than $1000 are 76% successful, tapering down to 50% between $15000-$19999. Failures overtake successes in the $20000-24999 range, and peak at an 80% failure rate when the goal amount is between $25000-$29999. There is a 67% chance of a successful campaign if the goal is between $35000-$44999, but there are only 6 data points in that range.
 
 
- 
+  
 
 ### Challenges and Difficulties Encountered
 
