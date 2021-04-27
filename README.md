@@ -19,8 +19,7 @@
 >   being successful. It also had the most total campaigns out of any month at
 >   166, and the most failures at 52.
 
-![Chart, line chart Description automatically
-generated](media/ad896c5740c54befa2fea1d6c1e155c3.png)
+![Outcome vs Launch chart](https://github.com/Hojo0210/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
